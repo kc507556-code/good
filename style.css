@@ -1,0 +1,66 @@
+#intro{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    
+}
+.h{
+    text-shadow: 1px 1px 7px rgb(10, 40, 186) ,  -1px -2px 7px rgb(90, 153, 255);
+    margin: 50px;
+}
+#box{
+position:relative;
+}
+.imgg{
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+#box2{
+ width: 300px; ;
+ height: 300px; 
+ box-shadow: 3px 2px 9px rgb(6, 122, 255) , -3px -2px 9px rgb(1, 1, 67) ;
+margin-left: 30em;
+}
+#teps{
+    margin: 50px;
+    font-size: 35px;
+}
+body{
+    border: 3px solid;
+    border-color: rgb(60, 3, 194);
+    display: flow-root;
+    background-image: url( images/backkk.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+audio{
+    position: relative;
+    left: 400px;
+    top: -20px;
+    height: 20px;
+    width: 600px;
+}
+p{
+  text-shadow: 3px 2px 15px rgb(55, 44, 208) , -3px -2px 15px rgb(20, 77, 151);
+  color: aliceblue;
+  margin-left:  35px; 
+}
+li{
+    text-shadow: 3px 2px 15px rgb(15, 15, 214) , -3px -2px 15px rgb(20, 77, 151);
+      color: aliceblue;
+}
+tr{
+    text-shadow: 3px 2px 15px rgb(26, 32, 216) , -3px -2px 15px rgb(20, 77, 151);
+      color: aliceblue;
+}
+dl{
+    text-shadow: 3px 2px 15px rgb(77, 24, 220) , -3px -2px 15px rgb(20, 77, 151);
+      color: aliceblue;
+
+}
+label{
+    text-shadow: 3px 2px 15px rgb(41, 21, 189) , -3px -2px 15px rgb(20, 77, 151);
+      color: aliceblue;
+
+}
