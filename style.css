@@ -45,12 +45,13 @@ p{
   text-shadow: 3px 2px 15px rgb(55, 44, 208) , -3px -2px 15px rgb(20, 77, 151);
   color: aliceblue;
   margin-left:  35px;
-    margin-bottom: 25px;
+  margin-bottom: 25px;
 }
 li{
     text-shadow: 3px 2px 15px rgb(15, 15, 214) , -3px -2px 15px rgb(20, 77, 151);
       color: aliceblue;
-    margin-bottom: 25px;
+      margin-bottom: 25px;
+     font-size: 25px;
 }
 tr{
     text-shadow: 3px 2px 15px rgb(26, 32, 216) , -3px -2px 15px rgb(20, 77, 151);
