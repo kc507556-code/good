@@ -50,7 +50,7 @@ p{
 li{
     text-shadow: 3px 2px 15px rgb(15, 15, 214) , -3px -2px 15px rgb(20, 77, 151);
       color: aliceblue;
-      margin-bottom: 25px;
+      margin: 25px;
      font-size: 25px;
 }
 tr{
